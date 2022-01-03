@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  The space between development and design is where you'll find me.
+  The space between development and design is where I thrive.
 </p>
 
 <p align="center">
