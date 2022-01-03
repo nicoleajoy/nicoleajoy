@@ -1,2 +1,14 @@
-<a href="https://linkedin.com/in/nicoleajoy">![linkedIn](https://img.shields.io/badge/LinkedIn-7bcffc?style=for-the-badge&logo=linkedin&logoColor=1b1b1b)</a>
-<a href="https://nicoleajoy.github.io">![hi](https://img.shields.io/badge/Portfolio-9191E9?style=for-the-badge&logo=svg&logoColor=white)</a>
+<h2 align="center">
+  Hello, I'm Nicole Ajoy!
+</h2>
+
+<p align="center">
+  <em>"The space between development and design is where I thrive."</em>
+</p>
+
+<p align="center">
+  <strong>
+    <a href="https://linkedin.com/nicoleajoy">LinkedIn</a> •
+    <a href="https://nicoleajoy.github.io">Portfolio</a>
+  </strong>
+</p>
