@@ -1,14 +1,25 @@
 <h2 align="center">
-  Hi, I'm Nicole Ajoy!
+  <samp>
+    > Hello there!
+  </samp>
 </h2>
 
 <p align="center">
-  The space between development and design is where I thrive.
+  <samp>
+     My name is Nicole and I'm a software developer.</br>
+    The space between code and art is where I thrive.</br>
+  </samp>
 </p>
 
 <p align="center">
-  <strong>
-    <a href="https://linkedin.com/in/nicoleajoy">LinkedIn</a> •
-    <a href="https://nicoleajoy.github.io">Portfolio</a>
-  </strong>
+  <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='100"'>
+</p>
+
+<p align="center">
+  <samp>
+     <strong>
+      <a href="https://linkedin.com/in/nicoleajoy">LinkedIn</a> /
+      <a href="https://nicoleajoy.github.io">Portfolio</a>
+    </strong>
+  </samp>
 </p>
