@@ -1,13 +1,14 @@
 <h2 align="center">
   <samp>
-    > Hello there!
+    Hello There!
   </samp>
 </h2>
 
 <p align="center">
   <samp>
-     My name is Nicole and I'm a software developer.</br>
-    The space between code and art is where I thrive.</br>
+    My name is Nicole and I'm a software developer.</br>
+    Currently contributing to DevOps.</br>
+    #codingfromhome</br>
   </samp>
 </p>
 
