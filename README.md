@@ -7,7 +7,6 @@
 <p align="center">
   <samp>
     My name is Nicole and I'm a software developer.</br>
-    Currently contributing to DevOps.</br>
     #codingfromhome</br>
   </samp>
 </p>
