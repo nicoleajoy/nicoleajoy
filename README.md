@@ -1,6 +1,7 @@
+<!-- About -->
 
 <div align="center">
-  <img src='https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif' height='100"'></br>
+  <img src='https://media.giphy.com/media/OOkuWV0M23iS2C8DwZ/giphy.gif' height='100' width='100'></br>
 </div>
 
 <div id="badges" align="center">
@@ -9,7 +10,7 @@
 </div>
 
 <h2 align="center">
-  hello there!
+  Hello There!
 </h2>
 
 <p align="center">
