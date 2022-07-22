@@ -1,8 +1,6 @@
 <!-- About -->
 
 <div align="center">
-  <img src='https://pulsarcollective.org/wp-content/uploads/2021/05/pixel-speech-bubble.png' height='50' width='auto'>
-  <br/>
   <img src='https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif' height='200' width='auto'>
 </div>
 
@@ -14,6 +12,7 @@
 </div>
 
 <p align="center">
-  My name is Nicole and I'm a software developer.</br>
-  <samp>#codingfromhome #devops</samp>
+  <i>"The thing about google is, to ask a question, you should already know 50% of the answer."</i>
+  </br>
+  <samp>#sde #womenintech #devops</samp>
 </p>
