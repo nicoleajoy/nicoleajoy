@@ -1,7 +1,7 @@
 <!-- About -->
 
 <div align="center">
-  <img src='https://cdn-icons-png.flaticon.com/512/5986/5986190.png' height='250' width='auto'>
+  <img src='https://i.postimg.cc/hPBDd7pq/hello-world-term.png' height='250' width='auto'>
 </div>
 
 <hr/>
