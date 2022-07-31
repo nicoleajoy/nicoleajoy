@@ -1,7 +1,7 @@
 <!-- About -->
 
 <div align="center">
-  <img src='https://i.postimg.cc/hPBDd7pq/hello-world-term.png' height='250' width='auto'>
+  <img src='https://pulsarcollective.org/wp-content/uploads/2021/05/pixel-speech-bubble-768x296.png' height='100' width='auto'>
 </div>
 
 <hr/>
