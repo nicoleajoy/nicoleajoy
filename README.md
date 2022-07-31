@@ -1,7 +1,7 @@
 <!-- About -->
 
 <div align="center">
-  <img src='https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif' height='200' width='auto'>
+  <img src='https://cdn-icons-png.flaticon.com/512/5986/5986190.png' height='250' width='auto'>
 </div>
 
 <hr/>
@@ -13,6 +13,4 @@
 
 <p align="center">
   <i>"The thing about google is, to ask a question, you should already know 50% of the answer."</i>
-  </br>
-  <samp>#sde #womenintech #devops</samp>
 </p>
